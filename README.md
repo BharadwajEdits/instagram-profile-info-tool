@@ -106,7 +106,7 @@ Bio: Discover what's new on Instagram 🔎✨
 Followers: 694,405,312
 Following: 233
 Posts: 8,134
-Profile Pic URL: https://instagram.fccj3-1.fna.fbcdn.net/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg
+Profile Pic URL: https://instagram.fccj3-1.fna.fbcdn.net/v/t51.2885-19/281440578_1088265838702675_6233856337905829714_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fccj3-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2QEVti5uXfCzQZYvPpzXPwKpMA-hG9WHeR1U8QV9n6Nh5XnOvPezE6JeW2YC33gBdqQ&_nc_ohc=fJowwsZqquoQ7kNvwGakcPi&_nc_gid=JUlv-KWOpAVcS3gnIQKp9g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfYjR0ZpE5oAU9uHlmo6jkab5QRBWdr40JjOgOdxaz_uPg&oe=68C311D8&_nc_sid=8b3546
 -------------------------------
 ```
 
